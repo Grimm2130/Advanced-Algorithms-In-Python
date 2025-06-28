@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.csv": "csv (whitespace)",
+        "*.py": "python",
+        "*.md": "markdown",
+        "vector": "cpp"
+    }
+}
